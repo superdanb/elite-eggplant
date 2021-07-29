@@ -2,7 +2,7 @@
 title: About
 sections:
   - type: hero_section
-    title: About1
+    title: About
     subtitle: About Page Demo1
     align: center
     background_color: secondary
